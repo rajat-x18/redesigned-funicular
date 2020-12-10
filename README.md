@@ -1,2 +1,2 @@
 # redesigned-funicular
-Shopping Cart manager
+https://trusting-poitras-5b40b9.netlify.app/
