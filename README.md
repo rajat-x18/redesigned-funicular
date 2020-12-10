@@ -1,2 +1,0 @@
-# redesigned-funicular
-
